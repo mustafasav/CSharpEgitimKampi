@@ -271,7 +271,7 @@ namespace _03_KararYapilari
                         break;
                     }
                 default:
-                    Console.WriteLine("Geçersiz işlem"); break;
+                    Console.WriteLine("Geçersiz işlem seçtiniz"); break;
 
             }
 
