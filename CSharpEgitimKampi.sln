@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "02_Variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KararYapilari", "03_KararYapilari\03_KararYapilari.csproj", "{A389E4C3-8D72-4C01-8AC2-7352142D9C50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{999653F5-78B2-4B3B-82B2-1314844B3677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A389E4C3-8D72-4C01-8AC2-7352142D9C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A389E4C3-8D72-4C01-8AC2-7352142D9C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A389E4C3-8D72-4C01-8AC2-7352142D9C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999653F5-78B2-4B3B-82B2-1314844B3677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999653F5-78B2-4B3B-82B2-1314844B3677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999653F5-78B2-4B3B-82B2-1314844B3677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999653F5-78B2-4B3B-82B2-1314844B3677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
