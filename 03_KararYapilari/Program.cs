@@ -266,7 +266,7 @@ namespace _03_KararYapilari
                         }
                         else
                         {
-                            Console.WriteLine("Sıfıra bölme yapılamaz");
+                            Console.WriteLine("Sıfıra bölme yapılamaz...");
                         }
                         break;
                     }
