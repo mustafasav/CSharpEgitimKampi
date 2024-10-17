@@ -80,10 +80,7 @@ namespace _05_LoosWithStars
             #endregion
 
 
-            #region elmas_gorseli
 
-
-            #endregion
             Console.Read();
 
         }
