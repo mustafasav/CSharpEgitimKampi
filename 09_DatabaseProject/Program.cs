@@ -24,7 +24,7 @@ namespace _09_DatabaseProject
             Console.Write("Lütfen getirmek istediğiniz tablo numarasını giriniz: ");
 
             tableNumber = Console.ReadLine();
-            string baglantiAdresi = "Data Source=ASUSPC; initial Catalog=EgitimKampiDb; integrated security=true";
+            string baglantiAdresi = "Data Source=HP; initial Catalog=EgitimKampiDb; integrated security=true";
             SqlConnection connection = new SqlConnection(baglantiAdresi);
             if (connection.State == System.Data.ConnectionState.Closed) //Burada bağlantı açık olup olmadığını kontrol ediyoruz. Açıksa tekrar açmaya çalışmıyoruz.
             {
