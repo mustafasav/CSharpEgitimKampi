@@ -17,6 +17,12 @@
 
 ✔️ 08_Methods  ---->>    Metotlara Giriş (Tanımlama, Void Metot, Parametreli Metot, Geriye Değer Döndüren Metot) ve Kullanım Örnekleri
 
+✔️ 09_DatabaseProject  ---->>   MSSQL veri tabanına giriş ve ilk bağlantı çalışmaları. (Data Source=HP bilgisayar adına dikkat!!!)
+
+✔️ 10_DatabaseCrud  ---->>   MSSQL veri tabanında temel CRUD (Create, Read, Update, Delete) İşlemleri
+
+
+
 
 
 
